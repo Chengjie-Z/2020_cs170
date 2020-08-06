@@ -1,6 +1,14 @@
 # CS 170 Project Spring 2020
 
-Take a look at the project spec before you get started!
+Project spec:
+
+Let *G=(V,E)* be a positive weighted, connected, undirected graph. We would like to find a subgraph *T* of *G* such that:
+
+1. Every vertex is either in *T* or adjacent to a vertex in *T*.
+
+2. *T* is a tree.
+
+3. The average pairwise distance between all vertices in *T* is minimized.
 
 Requirements:
 
